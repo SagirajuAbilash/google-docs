@@ -84,7 +84,7 @@ body{
     .container .ql-toolbar.ql-snow {
       display: flex;
       flex-wrap: wrap;
-      justify-content: end;
+      justify-content: flex-end;
       width: 100%;
       height: auto;
       position: sticky;

@@ -41,7 +41,7 @@ const TOOL_OPTIONS=[
 
 function TextEditor(){
 
-   const shareUrl= 'https://calendar.google.com/calendar/u/0/r?pli=1';
+ 
    
 
 
